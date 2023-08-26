@@ -1,2 +1,2 @@
 # Introduction-to-excel
-Excel is an important part in Data analysis. I took this Bikesales  dataset from Kaggle and used it to learn the basics of excel
+Excel is an important part in Data analysis. I took this Bikesales  dataset from Kaggle and used it to learn the basics of excel such as Pivot tables. Pivot tables are incredibly useful for tasks like financial analysis, sales reporting, and any situation where you need to quickly summarize and understand large datasets. I created a pivot table from the data set. Some of the pivot tables included how the countries perfomed interms of sales per Year.
